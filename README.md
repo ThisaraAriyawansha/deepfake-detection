@@ -57,7 +57,7 @@ A comprehensive deepfake detection system that provides real-time analysis of li
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/ThisaraAriyawansha/deepfake-detector.git
+git clone https://github.com/ThisaraAriyawansha/deepfake-detection.git
 cd deepfake-detector
 
 # Create virtual environment
