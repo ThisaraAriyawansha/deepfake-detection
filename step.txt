@@ -1,1 +1,7 @@
 first Run Setup.bat file
+
+# Terminal 1 - Backend
+python backend/app.py
+
+# Terminal 2 - Frontend
+cd frontend && npm run dev
